@@ -1,0 +1,1 @@
+pyinstaller --clean -F renren.py -i favicon.ico
