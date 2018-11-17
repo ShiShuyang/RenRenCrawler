@@ -8,6 +8,8 @@
 
 ②一个相册的总回复没有爬取，高兴了再改。
 
+③表情被我当成一般HTML代码过滤掉了……比如@泉此方 一大堆膜拜的表情，看起来都是什么都没回复的样子。
+
 # 使用方法：
 在https://github.com/ShiShuyang/RenRenCrawler/releases 中下载reren.exe，然后在相同文件夹下新建一个cookie.txt，如下图。
 ![Image text](https://raw.githubusercontent.com/ShiShuyang/RenRenCrawler/master/1.png)
