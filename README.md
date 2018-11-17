@@ -11,7 +11,7 @@
 # 使用方法：
 在https://github.com/ShiShuyang/RenRenCrawler/releases 中下载reren.exe，然后在相同文件夹下新建一个cookie.txt，如下图。
 ![Image text](https://raw.githubusercontent.com/ShiShuyang/RenRenCrawler/master/1.png)
-登录自己的人人账号，在浏览器中按F12，选择网络（绿色方框），然后刷新页面。在网络下会显示一堆东西。找到红色圆圈的文件并点击（文件名和你人人ID相同），找到右侧cookie，把选中内容复制下来（不包括粗体的Cookie和冒号），粘贴到cookie.txt中。如下图所示（由于这个是登录凭据，我遮掉了我自己的这个信息）：
+登录自己的人人账号，在浏览器中按F12，选择网络（绿色方框），然后刷新页面。在网络下会显示一堆东西。找到红色圆圈的文件并点击（文件名和你人人ID相同），选择，找到右侧cookie，把选中内容复制下来（不包括粗体的Cookie和冒号），粘贴到cookie.txt中。如下图所示（由于这个是登录凭据，我遮掉了我自己的这个信息）：
 ![Image text](https://raw.githubusercontent.com/ShiShuyang/RenRenCrawler/master/2.png)
 然后双击renren.exe运行，效果如下如所示：
 ![Image text](https://raw.githubusercontent.com/ShiShuyang/RenRenCrawler/master/3.png)
