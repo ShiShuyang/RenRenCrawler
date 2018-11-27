@@ -3,7 +3,7 @@
 
 2018/11/17 更新python3版本。可以爬取状态、日志、相册照片，并且保存下面的回复。python2版本不再更新。
 
-如果github下载有问题，提供自己个人网站的分流下载：https://www.shishuyang.cn/app/dadhealth/renren.exe
+如果github下载有问题，提供自己个人网站的分流下载：https://www.shishuyang.cn/app/RenRenCrawler/renren.exe
 
 # 目前已知问题：
 ①对超过100条的回复没有进一步处理（即一个状态、日志或相册的回复只显示前100条），高兴了再改。
